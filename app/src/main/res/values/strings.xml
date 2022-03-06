@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foundations</string>
+    <string name="testing_concept">Testing Concept!</string>
+    <string name="roll">Roll</string>
+    <string name="count_up">Count Up</string>
+</resources>
